@@ -1,5 +1,5 @@
 # Non-Funtional-Calculator-
-My first ever built calculator, But it's not functional though. It has every part a calculator possesses....Lack only JS file. 
+My first ever built calculator. It has every part a calculator possesses....Built with HTML, CSS, JAVASCRIPT. 
 Simple-Calculator
 
 A simple non functional Calculator for general purposes.
